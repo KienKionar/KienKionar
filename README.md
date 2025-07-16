@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, welcome to my github profile. My name is Muhammad Afrizal<br>You can call me. Rizal, i'm born in bekasi and live in jakarta. I like programming<br>And my favorite program language PHP
+Hello there, welcome to my github profile. My name is Muhamad Afrizal<br>You can call me. Rizal, i'm born in bekasi and live in jakarta. I like programming<br>And my favorite program language PHP
 
 
 ## 🌐 Socials:
